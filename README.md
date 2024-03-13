@@ -20,7 +20,6 @@
 ## Projetos:
 
 
-* **Uma Breve analise dos dados AirBnB em Portugual :** https://bit.ly/2L2cMwy
-
+* **Uma Breve analise dos dados AirBnB em Portugual :** bit.ly/3IxSisu
 
 ---
