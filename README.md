@@ -23,5 +23,6 @@
 
 
 * **Uma Breve analise dos dados AirBnB em Portugual :** https://bit.ly/3IxSisu
+* **Uma Breve analise dos dados da COVID-19 no Brasil :** https://shre.ink/8JKw
 
 ---
